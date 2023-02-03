@@ -1,15 +1,12 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Главная",
+  "another": "Расписание",
+  "advanced": "Курсовые работы (папка)",
+  "tasks": "Задания",
   "contact": {
-    "title": "Contact ↗",
+    "title": "Связь ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://vk.com/nilvfs",
     "newWindow": true
   }
 }
