@@ -1,8 +1,24 @@
 {
-  "index": "Главная",
-  "schedule": "Расписание",
+  "index": {
+    "title": "Главная",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "schedule": {
+    "title": "Расписание",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
   "coursework": "Курсовые работы",
   "tasks": "Задания",
+  "about": {
+    "title": "О сайте",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
   "contact": {
     "title": "Связь ↗",
     "type": "page",

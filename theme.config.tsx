@@ -1,5 +1,6 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
+import OneSignal from "react-onesignal"
 
 const config: DocsThemeConfig = {
   logo: <span><b>ПОИЯ-БЗ-19</b></span>,

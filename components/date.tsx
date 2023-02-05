@@ -16,9 +16,9 @@ function GetDate() {
 
   return (
     <div className={dateStyle.dateWrapper}>
-      <p>Сейчас: </p>
-      <p>{date.toLocaleTimeString()}</p>
-      <p className={dateStyle.right}>{date.toLocaleDateString()}</p>
+      <div>Сейчас: </div>
+      <div>{date.toLocaleTimeString()}</div>
+      <div className={dateStyle.right}>{date.toLocaleDateString()}</div>
     </div>
   )
 }
